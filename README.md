@@ -1,7 +1,7 @@
 Web Project Structure
 
 📂 Project Folder
-
+```
 📂 my_project
  ├── 📂 assets
  │    ├── rain.png
@@ -17,9 +17,7 @@ Web Project Structure
  ├── home.html
  ├── server.js (For backend)
  ├── package.json (For dependencies)
-
-
----
+```
 
 1. index.html (Redirect to Login)
 
